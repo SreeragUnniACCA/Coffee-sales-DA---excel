@@ -51,3 +51,5 @@ This project is an **end-to-end Microsoft Excel solution** for analyzing coffee 
 
 ## Dashboard
 - <a href="https://github.com/SreeragUnniACCA/Coffee-sales-DA---excel/blob/main/dashboard.png"> Dashboard </a>
+## Project File
+- <a href="https://github.com/SreeragUnniACCA/Coffee-sales-DA---excel/blob/main/coffeeOrders_DataAnalysis.xlsx"> Project File </a>
